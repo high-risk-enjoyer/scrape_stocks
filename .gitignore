@@ -1,7 +1,10 @@
-*.idea/
+.idea/
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+.venv/
+env/
 .env
-.venv/Lib
+.DS_Store
+Thumbs.db
